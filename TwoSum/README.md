@@ -1,10 +1,11 @@
 <h3 align="center">
   <img src="/TwoSum/Imagens_/TWOSUM_INICIAL.jpeg" width="100%">
 </h3>
-````markdown
+
 <h1>
-  <img src="./assets/leetcode-logo.png" width="35" align="center">
-  Two Sum </h1>
+  <img src="./assets/leetcode.png" width="42" height="42" align="center">
+  LeetCode Resolutions
+</h1>
 
 **LeetCode:** #1  
 **Difficulty:** Easy  
