@@ -120,9 +120,12 @@ Compare sua solução com elas e tente explicar **por que o Hash Map permite red
 
 > **Tente primeiro. Depois confira a solução.**
 ## Lógica:
-```text
+
 [Explicação visual do Two Sum](/TwoSum/solutiontwosum_python_java.txt)
-```
+
+
+
+---
 <h3 align="center">
   <img src="/TwoSum/Imagens_/TWOSUM_FINAL.jpeg" width="100%">
 </h3>
