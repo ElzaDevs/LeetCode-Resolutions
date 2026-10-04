@@ -18,8 +18,11 @@ Os problemas são organizados por assunto para facilitar a navegação e permiti
 
 ```text
 LeetCode-Resolutions/
-│
-├── 01-arrays-hashing/
+│ Assets/
+final.png
+inicial.png
+├── 01-TwoSum/
+    Imagens_/
 ├── 02-two-pointers/
 ├── 03-sliding-window/
 ├── 04-stack/
