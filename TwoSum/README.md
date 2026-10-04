@@ -1,7 +1,7 @@
+<h3 align="center">
+  <img src="/TwoSum/Imagens_/TWOSUM_INICIAL.jpeg" width="100%">
+</h3>
 ````markdown
-
-[Imagem inicial](/TwoSum/Imagens_/TWOSUM_INICIAL.jpeg)
-
 <h1>
   <img src="./assets/leetcode-logo.png" width="35" align="center">
   Two Sum </h1>
@@ -120,10 +120,9 @@ Compare sua solução com elas e tente explicar **por que o Hash Map permite red
 
 > **Tente primeiro. Depois confira a solução.**
 ## Lógica:
-![Explicação visual do Two Sum](./TwoSum_demo.png)
-
-## Text:
-![Explicação visual do Two Sum](/TwoSum/solutiontwosum_python_java.txt)
-
-
-[FOOTER](/TwoSum/Imagens_/TWOSUM_FINAL.jpeg)
+```text
+[Explicação visual do Two Sum](/TwoSum/solutiontwosum_python_java.txt)
+```
+<h3 align="center">
+  <img src="/TwoSum/Imagens_/TWOSUM_FINAL.jpeg" width="100%">
+</h3>
