@@ -3,7 +3,7 @@
 </h3>
 
 <h1>
-  <img src="./assets/leetcode.png" width="42" height="42" align="center">
+  <img src="TwoSum/Imagens_/leetcode.png" width="42" height="42" align="center">
   LeetCode Resolutions
 </h1>
 
