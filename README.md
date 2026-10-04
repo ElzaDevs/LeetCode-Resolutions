@@ -1,5 +1,7 @@
 
-[Imagem inicial](/leetcode/assets/inicial.jpeg)
+<h3 align="center">
+  <img src="./assets/inicial.jpeg" alt="LeetCode Resolutions" width="100%">
+</h3>
 <h1> LeetCode Resolutions </h1>
 
 
@@ -31,5 +33,7 @@ LeetCode-Resolutions/
 ├── 12-dynamic-programming/
 └── 13-sorting/
 ```
+<h3 align="center">
+  <img src="./assets/final.jpeg" alt="LeetCode Resolutions" width="100%">
+</h3>
 
-[Imagem final](/leetcode/assets/final.jpeg)
