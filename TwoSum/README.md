@@ -122,7 +122,7 @@ Compare sua solução com elas e tente explicar **por que o Hash Map permite red
 > **Tente primeiro. Depois confira a solução.**
 ## Lógica:
 
-[Explicação visual do Two Sum](/TwoSum/solutiontwosum_python_java.txt)
+[Explicação visual do Two Sum](/TwoSum/TwoSum_demo.png)
 
 
 
